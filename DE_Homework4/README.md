@@ -1,6 +1,6 @@
 # 1. Develop a RESTful API server that will accept three types of requests: GET, POST, and DELETE
 
-I developed my RESTful API using the FastAPI framework. The server is running with Uvicorn. The entire API is imlpemented in [main.py](main.py). 
+I developed my RESTful API using the FastAPI framework. The server is running with Uvicorn. The entire API is implemented in [main.py](main.py). 
 
 To start the API server, just run the file:
 ```shell
